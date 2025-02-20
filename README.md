@@ -26,4 +26,4 @@ This Python script automates **video processing** by resizing videos, overlaying
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/video-watermarking.git
+git clone https://github.com/pinnedbyme/Video-Watermarking-Script.git
